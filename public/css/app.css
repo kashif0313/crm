@@ -1,0 +1,15 @@
+@keyframes loadingAnimation {
+    0% { width:0%;
+         left:0%; }
+         50%{
+            width:45%;
+         }
+    100% {width:0%;
+        left:100%; }
+}
+
+.loading-bar {
+    position: relative;
+    left:0;
+    animation: loadingAnimation 1s linear infinite; /* Adjust the animation duration as needed */
+}
