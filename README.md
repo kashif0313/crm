@@ -1,6 +1,13 @@
 ## CRM System
 
 This CRM (Customer Relationship Management) system, built with Laravel, empowers businesses of all sizes to manage and streamline their customer interactions. It offers a user-friendly interface and leverages the following technologies:
+<br>
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Livewire](https://img.shields.io/badge/Livewire-3FB27F?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
+[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)](https://alpinejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white)](https://www.chartjs.org/)
+
 
 * **Laravel:** A robust PHP framework providing a solid foundation for building web applications.
 * **Livewire:** A Laravel framework component facilitating interactive UIs without full page reloads.
@@ -102,7 +109,7 @@ The CRM System helps you:
 Once installed, log in using the default credentials (modify these for production):
 
 * Email: admin@example.com
-* Password: password
+* Password: asdasd
 
 Explore the system and its features to manage your customer relationships effectively.
 
