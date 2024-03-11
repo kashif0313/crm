@@ -38,19 +38,35 @@ The CRM System helps you:
 * **Comprehensive Customer Management:**
     * Create, edit, and delete detailed customer records.
     * Track interaction history for better understanding of customer behavior.
-    * Segment customers for targeted marketing and communication strategies.
-* **Streamlined Sales Tracking:**
-    * Manage leads, opportunities, and deals efficiently in a single platform.
-    * Track sales pipeline stages and visualize progress.
-    * Gain insights into conversion rates and identify areas for improvement.
-* **Informative Reporting:**
-    * Generate insightful reports on sales performance, customer interactions, and other key metrics.
-    * Customize reports to focus on specific aspects of your business.
-    * Use generated data to make data-driven decisions.
+
 * **Secure User Authentication:**
     * Manage user accounts with different roles and permissions.
     * Maintain user credentials securely using Laravel's authentication features.
     * Control access to specific functionalities based on user roles.
+
+## Desktop View
+<div style="display:flex; justify-content: space-around;">
+    <img src="https://github.com/kashif0313/crm/assets/65242138/cd147756-545a-419c-80eb-7c081df3a5ae" alt="First Image" width="500"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/0fd55e0a-55d6-49d4-8cc7-621b81642248" alt="Second Image" width="500"/>
+     <img src="https://github.com/kashif0313/crm/assets/65242138/48754137-ca85-4640-ad68-ede875e3be11" alt="First Image" width="500"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/5755830f-9cfd-42ed-893b-f90a45c12c55" alt="Second Image" width="500"/>
+     <img src="https://github.com/kashif0313/crm/assets/65242138/3935051a-e10f-4247-935c-546f0d2f7209" alt="Second Image" width="500"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/a4583a6d-d8af-4755-afeb-e7747c958a55" alt="Second Image" width="500"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/ce17d2be-de66-4f4d-8afa-ca996a446004" alt="Second Image" width="500"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/1af9149a-aa46-421e-bbdf-d8c418f046ad" alt="Second Image" width="500"/>
+</div>
+
+## Mobile View
+<div style="display:flex; justify-content: space-around;">
+    <img src="https://github.com/kashif0313/crm/assets/65242138/c9b55abe-4d5e-469a-b998-310aa404ea20" alt="First Image" height="400"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/5e647a99-f6b6-49d6-82f8-0eac02b8e33f" alt="First Image" height="400"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/e2add873-9634-480b-9155-84bb07053682" alt="First Image" height="400"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/30082cef-e462-448d-98d4-19fd4c2e7563" alt="First Image" height="400"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/9dd03117-b182-4599-9db1-0287f0b97bdc" alt="First Image" height="400"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/f2c6209b-a1b7-406f-b7f1-0e45f47da842" alt="First Image" height="400"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/a5d24a20-b719-4420-9d8c-450b1e054afe" alt="First Image" height="400"/>
+    <img src="https://github.com/kashif0313/crm/assets/65242138/9dbb1d2e-9f3f-4ac7-8af4-b1bca8c0809b" alt="First Image" height="400"/>
+</div>
 
 ## Installation
 
